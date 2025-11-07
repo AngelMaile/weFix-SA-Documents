@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-Welcome to **weFix SA** — a community-driven platform that allows citizens to report public infrastructure issues such as potholes, power outages, waste collection problems, and more. By accessing or using our mobile application (“App”), you agree to comply with and be bound by these Terms and Conditions.
+Welcome to **weFix SA**, a community-driven platform that allows citizens to report public infrastructure issues such as potholes, power outages, waste collection problems, and more. By accessing or using our mobile application (“App”), you agree to comply with and be bound by these Terms and Conditions.
 
 If you do not agree with these Terms, please do not use the App.
 
